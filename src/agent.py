@@ -17,12 +17,9 @@ from livekit.agents import (
 )
 from livekit.agents.llm import ImageContent
 from livekit.plugins import (
-    openai,  # Optional
+
     noise_cancellation,
     deepgram,
-    groq,     # Optional
-    resemble, # Optional
-    cartesia,
     silero,
     google,
 )
