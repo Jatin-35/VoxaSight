@@ -29,6 +29,7 @@ VOXASIGHT/
 ├── .gitignore # Ignore env, pycache, etc.
 ├── requirements.txt # Python dependencies
 └── venv/ # Python virtual environment (ignored)
+```
 ---
 
 ## 🛠️ Tech Stack
@@ -78,6 +79,7 @@ GOOGLE_API_KEY=ADD_YOUR_GOOGLE_API_KEY
 OPENAI_API_KEY=ADD_IF_REQUIRED
 OPENAI_API_BASE=https://openrouter.ai/api/v1
 ```
+
 ### ▶️ Run the Project
 Make sure you have LiveKit project credentials.
 
@@ -85,6 +87,7 @@ Then run:
 ```
 python src\agent.py dev 
 ```
+
 ---
 
 ##  🧠 How It Works
