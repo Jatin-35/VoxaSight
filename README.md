@@ -50,8 +50,8 @@ VOXASIGHT/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/voxa-sight.git
-cd voxa-sight
+git clone https://github.com/Jatin-35/VoxaSight.git
+cd VoxaSight
 ```
 
 ### 2. Create a virtual environment
