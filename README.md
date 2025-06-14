@@ -49,7 +49,7 @@ VOXASIGHT/
 ## 📦 Installation
 
 ### 1. Clone the repository
-```bash
+```
 git clone https://github.com/Jatin-35/VoxaSight.git
 cd VoxaSight
 ```
