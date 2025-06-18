@@ -1,4 +1,4 @@
-# VoxaSight – A Voice and Vision AI Agent
+# VoxaSight – A Voice and Vision AI Agent 
 
 **VoxaSight** is a multimodal AI assistant that combines speech and vision to enable interactive learning, especially designed to support inclusive learning. It leverages voice activity detection, real-time speech understanding, contextual image input, and conversational intelligence using state-of-the-art AI models.
 
