@@ -67,7 +67,7 @@ class Assistant(Agent):
         ):
             if track.kind == rtc.TrackKind.KIND_VIDEO:
                 self._create_video_stream(track)
-
+    #
     async def on_user_turn_completed(
         self, turn_ctx: ChatContext, new_message: ChatMessage
     ) -> None:
